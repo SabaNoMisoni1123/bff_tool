@@ -42,5 +42,7 @@ print(bff_dict["CBFFM"]) # angle information of BFF matrices
 
 ## Publications
 
-- [Bi-Directional Beamforming Feedback-Based Firmware-Agnostic WiFi Sensing: An Empirical Study](https://ieeexplore.ieee.org/abstract/document/9749267) IEEE Access 2022.
-- [Respiratory Rate Estimation Based on WiFi Frame Capture](https://ieeexplore.ieee.org/abstract/document/9700721) IEE CCNC 2022.
+- [Bi-Directional Beamforming Feedback-Based Firmware-Agnostic WiFi Sensing: An Empirical Study](https://ieeexplore.ieee.org/abstract/document/9749267)  
+IEEE Access 2022.
+- [Respiratory Rate Estimation Based on WiFi Frame Capture](https://ieeexplore.ieee.org/abstract/document/9700721)  
+IEEE CCNC 2022.
