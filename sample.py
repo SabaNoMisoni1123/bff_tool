@@ -2,13 +2,13 @@ import pyshark
 
 import bffdecoder
 
-#  pcap_path = "./data/sample_ac.pcap"
-#  for bff_dict in bffdecoder.iterator_bff(pcap_path, True):
-#      print(bff_dict)
+pcap_path = "./data/sample_ac.pcap"
+for bff_dict in bffdecoder.iterator_bff(pcap_path, True):
+    print(bff_dict)
 
-#  pcap_path = "./data/sample_ax.pcap"
-#  for bff_dict in bffdecoder.iterator_bff(pcap_path, True):
-#      print(bff_dict)
+pcap_path = "./data/sample_ax.pcap"
+for bff_dict in bffdecoder.iterator_bff(pcap_path, True):
+    print(bff_dict)
 
 
 pcap_path = "./data/sample_ax.pcap"
